@@ -34,22 +34,22 @@ function Random(){
 
 function imgChange(playerImg,number){
     if (number === 1){
-        playerImg.setAttribute("src","./images/dice1.png");
+        playerImg.setAttribute("src","./dice1.png");
     }
     if (number === 2){
-        playerImg.setAttribute("src","./images/dice2.png");
+        playerImg.setAttribute("src","./dice2.png");
     }
     if (number === 3){
-        playerImg.setAttribute("src","./images/dice3.png");
+        playerImg.setAttribute("src","./dice3.png");
     }
     if (number === 4){
-        playerImg.setAttribute("src","./images/dice4.png");
+        playerImg.setAttribute("src","./dice4.png");
     }
     if (number === 5){
-        playerImg.setAttribute("src","./images/dice5.png");
+        playerImg.setAttribute("src","./dice5.png");
     }
     if (number === 6){
-        playerImg.setAttribute("src","./images/dice6.png");
+        playerImg.setAttribute("src","./dice6.png");
     }
 }
 
